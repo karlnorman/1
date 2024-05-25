@@ -113,3 +113,13 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Chocolate Mousse
+
+Ingredients:
+- 200g (7 oz) dark chocolate (70% cocoa)
+- 3 large eggs, separated
+- 50g (1/4 cup) granulated sugar
+- 300ml (1 1/4 cups) heavy cream
+- 1 tsp vanilla extract (optional)
+- A pinch of salt
