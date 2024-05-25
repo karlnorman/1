@@ -80,6 +80,7 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- Sweet Sauce
 
 Instructions:
 1. Preheat grill to medium-high heat.
